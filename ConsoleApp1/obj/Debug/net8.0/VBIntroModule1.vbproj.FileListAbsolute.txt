@@ -1,0 +1,14 @@
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\bin\Debug\net8.0\VBIntroModule1.exe
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\bin\Debug\net8.0\VBIntroModule1.deps.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\bin\Debug\net8.0\VBIntroModule1.runtimeconfig.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\bin\Debug\net8.0\VBIntroModule1.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\bin\Debug\net8.0\VBIntroModule1.pdb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.AssemblyInfoInputs.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.AssemblyInfo.vb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.vbproj.CoreCompileInputs.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\refint\VBIntroModule1.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.pdb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.genruntimeconfig.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\ref\VBIntroModule1.dll
