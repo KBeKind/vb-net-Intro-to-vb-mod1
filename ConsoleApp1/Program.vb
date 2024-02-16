@@ -82,11 +82,93 @@ Module Program
         'End Select
 
 
+        'Dim sum As Integer
+        'Dim i As Integer
+
+
+        'For i = 1 To 9 Step 2
+
+        '    sum += i
+
+        'Next
+
+
+        'For i = 9 To 1 Step -2
+
+        '    sum += i
+
+        'Next
+
+        'i = 0
+
+        'Do While i <= 5
+        '    sum += i
+        '    i += 1
+        'Loop
+
+        'Do
+        '    sum += i
+        '    i += 1
+        'Loop While i < 5
+
+
+        'Dim sum As Integer
+        'Dim i As Integer
+
+        'For i = 1 To 5
+
+        '    If (1 > 3) Then
+        '        Exit For
+        '    End If
+
+        '    sum += i
+        'Next
+
+
+        'i = 0
+
+        'For i = 1 To 5
+
+        '    If (i = 3) Then
+        '        Continue For
+        '    End If
+
+        '    sum += i
+        'Next
 
 
 
+        'Dim userNumberString As String = Console.ReadLine()
 
+        'Dim userNumberInteger = Integer.Parse(userNumberString)
 
+        'Dim endValueInteger As Integer = 0
+        'Dim i As Integer
+
+        'For i = 1 To userNumberInteger
+        '    endValueInteger += i
+        'Next
+
+        'Console.WriteLine(endValueInteger)
+
+        Dim userNumberInteger As Integer
+        Dim userNumberString As String
+
+        Dim endValueInteger As Integer = 0
+
+        Do
+            userNumberString = Console.ReadLine()
+            userNumberInteger = Integer.Parse(userNumberString)
+
+            If userNumberInteger = -1 Then
+                Exit Do
+            End If
+
+            endValueInteger += userNumberInteger
+
+        Loop Until userNumberInteger = -1
+
+        Console.WriteLine(endValueInteger)
 
     End Sub
 

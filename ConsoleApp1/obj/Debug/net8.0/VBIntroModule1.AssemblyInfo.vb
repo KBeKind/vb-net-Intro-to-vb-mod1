@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("VBIntroModule1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45f1412de7cdbe6bbe3d5ed2fa3213b07d6c4e31"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33e29ac2e85817a7985f271b45dc0385596b3419"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("VBIntroModule1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("VBIntroModule1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")> 
