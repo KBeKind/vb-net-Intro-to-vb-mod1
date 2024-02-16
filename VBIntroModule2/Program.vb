@@ -50,8 +50,8 @@ Module Program
         'Remove(startindex, count)
         'Replace(oldstring, newstring)
         'Substring(startindex, length)
-        'ToLower
-        'ToUpper
+        'ToLower()
+        'ToUpper()
         'Trim()
         'Split(splitcharacters)
 
@@ -81,7 +81,7 @@ Module Program
         'CUSTOM NUMERIC FORMATTING CODES
         '0 Zero placeholder
         '# Digit placeholder
-        '.Decimal point
+        '. Decimal point
         ', Thousands separator
         '% Percentage placeholder
         '; Section separator
@@ -131,6 +131,45 @@ Module Program
 
         'fString = String.Format("I saved {0:c}", mySavings)
         'Console.WriteLine(fString)
+
+
+
+        'Dim daysToAdd As Integer = Console.ReadLine()
+
+        'Dim newDate = DateTime.Now.AddDays(daysToAdd)
+
+        'Dim fDate = String.Format("{0:dddd, MMMM d, yyyy}", newDate)
+
+        'Console.WriteLine(fDate)
+
+
+
+        'Dim userNumberInteger As Integer
+        'Dim userNumberString As String
+
+        'Dim endValueInteger As Integer = 0
+        'Dim numCount As Integer = 0
+
+        'Do
+        '    userNumberString = Console.ReadLine()
+        '    userNumberInteger = Integer.Parse(userNumberString)
+
+        '    If userNumberInteger = -1 Then
+        '        Exit Do
+        '    End If
+        '    numCount += 1
+        '    endValueInteger += userNumberInteger
+
+        'Loop Until userNumberInteger = -1
+
+
+        'Dim average As Decimal = endValueInteger / numCount
+
+        'Dim fNumber = String.Format("{0:n2}", average)
+
+        'Console.WriteLine(fNumber)
+
+
 
     End Sub
 End Module
