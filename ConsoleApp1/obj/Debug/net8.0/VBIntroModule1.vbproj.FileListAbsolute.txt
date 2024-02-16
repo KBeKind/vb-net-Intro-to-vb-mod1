@@ -12,3 +12,4 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\ne
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.genruntimeconfig.cache
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\ref\VBIntroModule1.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\ConsoleApp1\obj\Debug\net8.0\VBIntroModule1.sourcelink.json
