@@ -1,0 +1,15 @@
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\bin\Debug\net8.0\VBIntroModule2.exe
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\bin\Debug\net8.0\VBIntroModule2.deps.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\bin\Debug\net8.0\VBIntroModule2.runtimeconfig.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\bin\Debug\net8.0\VBIntroModule2.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\bin\Debug\net8.0\VBIntroModule2.pdb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.AssemblyInfoInputs.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.AssemblyInfo.vb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.vbproj.CoreCompileInputs.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.sourcelink.json
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\refint\VBIntroModule2.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.pdb
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\VBIntroModule2.genruntimeconfig.cache
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule2\obj\Debug\net8.0\ref\VBIntroModule2.dll
