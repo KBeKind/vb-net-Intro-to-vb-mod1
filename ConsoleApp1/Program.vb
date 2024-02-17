@@ -139,7 +139,6 @@ Module Program
 
 
         'Dim userNumberString As String = Console.ReadLine()
-
         'Dim userNumberInteger = Integer.Parse(userNumberString)
 
         'Dim endValueInteger As Integer = 0
