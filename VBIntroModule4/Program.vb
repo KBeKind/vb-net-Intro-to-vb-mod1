@@ -121,34 +121,56 @@ Module Program
 
         'Console.WriteLine(y)
 
-        Dim exeDirectory As String = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)
+        'Dim exeDirectory As String = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)
 
-        Dim completePath = exeDirectory & "\" & "indata.txt"
+        'Dim completePath = exeDirectory & "\" & "indata.txt"
 
-        Dim fs As New FileStream("indata.txt", FileMode.Open, FileAccess.Read)
+        'Dim fs As New FileStream("indata.txt", FileMode.Open, FileAccess.Read)
 
-        Dim intList As List(Of Integer) = New List(Of Integer)
+        'Dim intList As List(Of Integer) = New List(Of Integer)
 
-        Dim incomingIntString As String = ""
+        'Dim incomingIntString As String = ""
 
-        Dim total As Integer = 0
+        'Dim total As Integer = 0
 
-        Dim myInput = New StreamReader(fs)
+        'Dim myInput = New StreamReader(fs)
 
-        Do
-            incomingIntString = myInput.ReadLine()
+        'Do
+        '    incomingIntString = myInput.ReadLine()
 
-            If incomingIntString Is Nothing Then
-                Exit Do
-            End If
+        '    If incomingIntString Is Nothing Then
+        '        Exit Do
+        '    End If
 
-            total += incomingIntString
+        '    total += incomingIntString
 
-        Loop Until incomingIntString Is Nothing
+        'Loop Until incomingIntString Is Nothing
 
-        myInput.Close()
+        'myInput.Close()
 
-        Console.WriteLine(String.Format("{0:n2}", total))
+        'Console.WriteLine(String.Format("{0:n2}", total))
+
+
+
+
+        'System.Object METHODS
+
+        'ToString()
+        'Equals(object)
+        'Equals(object1, object2)
+        'ReferenceEquals(object1, object2)
+        'GetType()
+        'GetHashCode()
+        'Finalize()
+        'MemberwiseClone()
+
+
+
+        'MyBase refers to the base class of the current instance of a class
+        'Me keyword provides a reference to the specific instance of a class
+
+
+
 
 
     End Sub
