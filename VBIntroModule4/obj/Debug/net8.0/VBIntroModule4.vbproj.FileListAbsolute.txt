@@ -13,3 +13,4 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule4\obj\Debug
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule4\obj\Debug\net8.0\VBIntroModule4.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule4\obj\Debug\net8.0\VBIntroModule4.genruntimeconfig.cache
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule4\obj\Debug\net8.0\ref\VBIntroModule4.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\VB-Intro-Module1\VBIntroModule4\bin\Debug\net8.0\indata.txt
