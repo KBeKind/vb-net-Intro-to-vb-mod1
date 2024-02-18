@@ -1,6 +1,7 @@
 Imports System
 Imports System.IO
 Imports System.Reflection
+Imports System.Security.Cryptography.X509Certificates
 
 Module Program
     Sub Main(args As String())
@@ -171,7 +172,20 @@ Module Program
 
 
 
+        'Dim aCircle As Circle = New Circle()
+        'aCircle.Diameter = 4
+        'Console.WriteLine(GetArea(aCircle))
+        'Dim aSquare As Square = New Square()
+        'aSquare.Length = 4
+        'Console.WriteLine(GetArea(aSquare))
 
 
     End Sub
+
+
+    'Public Function GetArea(inShape As Shape)
+    '    Return inShape.area()
+    'End Function
+
+
 End Module
