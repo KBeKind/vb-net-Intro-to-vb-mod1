@@ -1,8 +1,8 @@
-﻿Public Class Animal
+﻿Public Interface Animal
 
+    Property Height As Double
+    Property Weight As Double
 
-    Overridable Sub Walk(inDistance As Integer)
-        Console.WriteLine(String.Format("Animal walks {0}", inDistance))
-    End Sub
+    Function Speed() As Double
 
-End Class
+End Interface
